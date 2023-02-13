@@ -23,7 +23,7 @@ See ```_src/env_CatFoodExp2021_analysis.txt``` for used R package versions.
 R script to get trapping effort descriptives and to prep all the field data for analysis.
 
 ### Script: ```2_scripts/3_plot_popnum.R ```
-R script to produce manuscript figure visualizing winter moth population dynamics and population phenological mismatch over time (1993-2021) at four locations in the Netherlands.
+R script to reproduce manuscript figure visualizing winter moth population dynamics and population phenological mismatch over time (1993-2021) at four locations in the Netherlands.
 
 ### Script: ```2_scripts/4_popdyn_analysis.R ```
 R script to reproduce the analysis of winter moth population dynamics: how much variation in population growth can be explained by timing mismatch?
