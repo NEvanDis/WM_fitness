@@ -13,8 +13,16 @@ Natalie E. van Dis, ORCID ID: 0000-0002-9934-6751
 &nbsp;
 
 ## Analysis and visualization of Experimental data
-### Script: ```2_scripts/1_CatFoodExp2021_analysis.R ```
-R script to reproduce the analysis and visualization (incl. manuscript figures) of the 2021 winter moth caterpillar feeding experiment: (1) What are the fitness consequences of day to day timing (a)synchrony with budburst? and (2) Can food quality affect the timing of life stages?
+R scripts to reproduce the analysis and visualization (incl. manuscript figures) of the 2021 winter moth caterpillar feeding experiment:
+
+### Script: ```2_scripts/1a_CatFoodExp2021_analysis_fitness.R ```
+(1) What are the fitness consequences of day to day timing (a)synchrony with budburst?
+
+### Script: ```2_scripts/1b_CatFoodExp2021_analysis_devtime.R ```
+(2) Can food quality affect the timing of life stages?
+
+### Script: ```2_scripts/suppl_pupaweight_proxy.R ```
+Supplemental: Is pupation weight a good proxy for fecundity?
 
 See ```_src/env_CatFoodExp2021_analysis.txt``` for used R package versions.
 
