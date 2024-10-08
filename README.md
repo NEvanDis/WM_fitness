@@ -3,7 +3,7 @@
 # Winter moth individual fitness and population growth
 This folder contains all the scripts needed to reproduce the analysis of experimental and field winter moth data belonging to manuscript _Phenological mismatch affects individual fitness and population growth in the winter moth_, published in Proc Roy Soc B: https://doi.org/10.1098/rspb.2023.0414
 
-**NB: The raw data, including both experimental data and field data, and the version of record analysis scripts can be found on Dryad https://doi.org/10.5061/dryad.m905qfv5p**
+**NB: The raw data, including both experimental data and field data, can be found on Dryad https://doi.org/10.5061/dryad.m905qfv5p**
 
 &nbsp;
 
