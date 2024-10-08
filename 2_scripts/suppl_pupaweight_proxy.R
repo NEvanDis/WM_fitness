@@ -2,6 +2,18 @@
 # PupaWeight good proxy for fitness? ####
 #-----------------------------------------
 
+# Open R project in main folder
+
+# Load packages
+#-----------------------------------
+library(tidyverse)
+library(readxl)
+library(cowplot)
+theme_set(theme_cowplot()) #white background instead of grey -> don't load if want grey grid
+library(lme4)
+library(lmerTest)
+
+
 # Load data 
 #-----------------------------------------
 # NB: data not included in deposition ####
