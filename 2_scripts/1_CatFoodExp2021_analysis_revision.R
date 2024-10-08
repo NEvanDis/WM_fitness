@@ -12,7 +12,6 @@ library(tidyverse)
 library(readxl)
 library(cowplot)
 theme_set(theme_cowplot()) #white background instead of grey -> don't load if want grey grid
-library(coxme)
 library(lme4)
 library(lmerTest)
 
